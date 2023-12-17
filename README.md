@@ -4,6 +4,10 @@
 # Adguard_synology_docker_compose Открыть Container Manager, перейти на вкладку Проект, нажать создать проект, создать Docker-compose.yml и вставить содержимое. Обязательно создать структуру папок docker/adguardhome/work, /docker/adguardhome/work/data и /docker/adguardhome/conf и указать путь установки /docker/adguardhome
 # После установки в Container Manager перейти в Сеть и объеденить две сети Bridge и adguard_network
 
+
+##==============================================================================================
+
+---
 version: "1.1"
 services:
   adguardhome_macvlan:
