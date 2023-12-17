@@ -39,7 +39,7 @@
  Это может понадобиться, если не подключаются клиенты к днс-серверу.
  
  <p align="center">
- <img width="100%" src="images/create-project-adguardhome-synology.png" alt="create-project-adguardhome-synology"/>
+ <img width="100%" src="images/new-bridge-adguard-container-manager.png" alt="new-bridge-adguard-container-manager"/>
  </p>
  
  Может потребоваться создание отдельного нового подключения Bridge c автоматическим настройками в Container Manager и через закладку Eправление привязать к нашему проекту (поставить галочку).
