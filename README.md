@@ -41,5 +41,5 @@ services:
       retries: 3
 
 networks:
-  macvlan-network:        
+  adguard_network:        
     external: true
