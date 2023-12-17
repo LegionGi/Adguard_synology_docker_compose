@@ -1,4 +1,4 @@
-synology-docker-compose.jpg
+
  <p align="center">
  <img width="100%" src="images/synology-docker-compose.jpg" alt="synology-docker-compose"/>
  </p>
