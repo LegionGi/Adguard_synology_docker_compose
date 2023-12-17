@@ -1,3 +1,8 @@
+synology-docker-compose.jpg
+ <p align="center">
+ <img width="100%" src="synology-docker-compose.jpg" alt="synology-docker-compose"/>
+</p>
+ 
  Подключиться по ssh к NAS и выполнить команды без решётки:
 # ifconfig 
 (для проверки eth0 или ovs_eth0) 
