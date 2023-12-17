@@ -48,6 +48,6 @@ version: "1.1"
       timeout: 30s
       retries: 3
 			
-  networks:
-    adguard_network:        
-      external: true
+    networks:
+      adguard_network:        
+        external: true
