@@ -1,4 +1,4 @@
- Подключиться по ssh к NAS:
+ Подключиться по ssh к NAS и выполнить команды без решётки:
 # ifconfig 
 (для проверки eth0 или ovs_eth0) 
 # sudo docker network create -d macvlan -o parent=ovs_eth0 --subnet=192.168.1.0/24 --gateway=192.168.1.1 --ip-range=192.168.1.200/32 adguard_network 
