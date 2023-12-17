@@ -9,6 +9,7 @@
 
 ---
 version: "1.1"
+
 services:
   adguardhome_macvlan:
     image: adguard/adguardhome:latest   
