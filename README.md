@@ -11,4 +11,9 @@ synology-docker-compose.jpg
 Открыть Container Manager, перейти на вкладку Проект, нажать создать проект, создать Docker-compose.yml и вставить содержимое (или импортировать файл adguard-docker-compose.yml). Обязательно создать структуру папок docker/adguardhome/work, /docker/adguardhome/work/data и /docker/adguardhome/conf и указать путь установки /docker/adguardhome
  После установки в Container Manager перейти в Сеть и объеденить две сети Bridge и adguard_network (выбрать сеть - управление - поставить галочку)
 
+ Перейти по адресу IP_NAS:3000 для певоначальной настройки. Выберите интерфейс в двух местах 192.168.1.200 (или Ваш IP), порты не меняем.
+ Adguard Home будет доступен по адресу 192.168.1.200 без указания порта.
+ 
+ 
+
 
